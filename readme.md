@@ -3,4 +3,6 @@ reference
 
 to run:
 1. /backend -> python manage.py runserver
-2. /frontend -> npm start
+2. /frontend -> 
+  - npm i
+  - npm start
